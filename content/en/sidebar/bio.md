@@ -1,6 +1,4 @@
 ---
 headless: true
 ---
-meow! mochi here, your purrfect companion
-
-rawr do you like my blog?
+just an adorable axolotl travelling ireland
