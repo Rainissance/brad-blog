@@ -1,4 +1,4 @@
-title: "cat blog!!"
+title: "epic pictures of brad and co"
 baseURL: 'https://neopost.neocities.org'
 languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
@@ -50,3 +50,7 @@ params:
   favicon: "/favicon.ico"
   posts-per-page: 1 # defaults to 5 if not defined
   toc-auto-numbering: false
+
+caches:
+  images:
+    dir: :cacheDir/images
