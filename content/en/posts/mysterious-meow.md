@@ -5,7 +5,7 @@ tags: ["meow",]
 title-images: ["/photo6.png",]
 ending-images: []
 author: "mochi"
-draft: false
+draft: true
 table-of-contents: true
 toc-auto-numbering: true
 ---
