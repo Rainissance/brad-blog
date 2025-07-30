@@ -1,7 +1,7 @@
 ---
 headless: true
 icon-use-flower-shape: false
-icon-path: "/customicon.png"
+icon-path: "/icon.jpg"
 links:
     - link: "https://itch.io"
       name: "itch.io"

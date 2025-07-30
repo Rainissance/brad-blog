@@ -1,14 +1,8 @@
 ---
 headless: true
-title: "welcome to my blog~!"
+title: "welcome!!"
 intro: 
-  - "this is an example introduction. feel free to customize it!"
-  - "add more lines to make it personal."
-image: "/cat.png"
-list:
-  name: "things i love:"
-  items: 
-    - "coding"
-    - "cats"
-    - "coffee"
+  - "this is a blog dedicated to recording brad's awesome trips and adventures! sometimes you may see cameos from his friends and family :)"
+image: "/axolotl-4.gif"
+
 ---
