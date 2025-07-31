@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meta on epic pictures of brad and co</title>
-    <link>http://localhost:1313/tags/meta/</link>
+    <link>https://bradandfriends.netlify.app/tags/meta/</link>
     <description>Recent content in meta on epic pictures of brad and co</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2025 21:43:45 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bradandfriends.netlify.app/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>an introduction</title>
-      <link>http://localhost:1313/posts/new-post/</link>
+      <link>https://bradandfriends.netlify.app/posts/new-post/</link>
       <pubDate>Wed, 30 Jul 2025 21:43:45 +0100</pubDate>
-      <guid>http://localhost:1313/posts/new-post/</guid>
+      <guid>https://bradandfriends.netlify.app/posts/new-post/</guid>
       <description>&lt;p&gt;Hello everyone!&lt;/p&gt;&#xA;&lt;p&gt;This may be a bit of surprise, but I decided to make a blog for Brad! I&amp;rsquo;ve always wanted to try my hand at coding a static site blog and decided to test the waters out with making a cute little blog for Brad!!&lt;/p&gt;&#xA;&lt;p&gt;I originally had a Tumblr blog for Brad and his friends, however I do not enjoy posting onto Tumblr. The UI of Tumblr is sloppy, and the moderation on there has a bias towards queer content.&lt;/p&gt;</description>
     </item>
   </channel>
