@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meow on epic pictures of brad and co</title>
-    <link>http://localhost:1313/tags/meow/</link>
+    <link>https://neopost.neocities.org/tags/meow/</link>
     <description>Recent content in meow on epic pictures of brad and co</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Feb 2025 10:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neopost.neocities.org/tags/meow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mysterious meow</title>
-      <link>http://localhost:1313/posts/mysterious-meow/</link>
+      <link>https://neopost.neocities.org/posts/mysterious-meow/</link>
       <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/posts/mysterious-meow/</guid>
+      <guid>https://neopost.neocities.org/posts/mysterious-meow/</guid>
       <description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;</description>
     </item>
     <item>
       <title>friends!!</title>
-      <link>http://localhost:1313/posts/friends/</link>
+      <link>https://neopost.neocities.org/posts/friends/</link>
       <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
-      <guid>http://localhost:1313/posts/friends/</guid>
+      <guid>https://neopost.neocities.org/posts/friends/</guid>
       <description>&lt;p&gt;meow rawr meow meow, rawr!&lt;/p&gt;</description>
     </item>
   </channel>

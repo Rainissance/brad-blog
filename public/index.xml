@@ -15,19 +15,5 @@
       <guid>http://localhost:1313/content/posts/new-post/</guid>
       <description>&lt;p&gt;Hello everyone!&lt;/p&gt;&#xA;&lt;p&gt;This may be a bit of surprise, but I decided to make a blog for Brad! I&amp;rsquo;ve always wanted to try my hand at coding a static site blog and decided to test the waters out with making a cute little blog for Brad!!&lt;/p&gt;&#xA;&lt;p&gt;I originally had a Tumblr blog for Brad and his friends, however I do not enjoy posting onto Tumblr. The UI of Tumblr is sloppy, and the moderation on there has a bias towards queer content.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>mysterious meow</title>
-      <link>http://localhost:1313/posts/mysterious-meow/</link>
-      <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/posts/mysterious-meow/</guid>
-      <description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>friends!!</title>
-      <link>http://localhost:1313/posts/friends/</link>
-      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
-      <guid>http://localhost:1313/posts/friends/</guid>
-      <description>&lt;p&gt;meow rawr meow meow, rawr!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

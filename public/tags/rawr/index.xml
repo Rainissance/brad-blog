@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rawr on epic pictures of brad and co</title>
-    <link>http://localhost:1313/tags/rawr/</link>
+    <link>https://neopost.neocities.org/tags/rawr/</link>
     <description>Recent content in rawr on epic pictures of brad and co</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jan 2025 21:05:11 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rawr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neopost.neocities.org/tags/rawr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>friends!!</title>
-      <link>http://localhost:1313/posts/friends/</link>
+      <link>https://neopost.neocities.org/posts/friends/</link>
       <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
-      <guid>http://localhost:1313/posts/friends/</guid>
+      <guid>https://neopost.neocities.org/posts/friends/</guid>
       <description>&lt;p&gt;meow rawr meow meow, rawr!&lt;/p&gt;</description>
     </item>
   </channel>

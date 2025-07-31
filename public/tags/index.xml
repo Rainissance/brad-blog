@@ -15,19 +15,5 @@
       <guid>http://localhost:1313/tags/meta/</guid>
       <description></description>
     </item>
-    <item>
-      <title>meow</title>
-      <link>http://localhost:1313/tags/meow/</link>
-      <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/tags/meow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>rawr</title>
-      <link>http://localhost:1313/tags/rawr/</link>
-      <pubDate>Wed, 29 Jan 2025 21:05:11 -0300</pubDate>
-      <guid>http://localhost:1313/tags/rawr/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
