@@ -10,9 +10,9 @@
     <atom:link href="https://neopost.neocities.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>an introduction</title>
-      <link>https://neopost.neocities.org/content/posts/new-post/</link>
+      <link>https://neopost.neocities.org/posts/new-post/</link>
       <pubDate>Wed, 30 Jul 2025 21:43:45 +0100</pubDate>
-      <guid>https://neopost.neocities.org/content/posts/new-post/</guid>
+      <guid>https://neopost.neocities.org/posts/new-post/</guid>
       <description>&lt;p&gt;Hello everyone!&lt;/p&gt;&#xA;&lt;p&gt;This may be a bit of surprise, but I decided to make a blog for Brad! I&amp;rsquo;ve always wanted to try my hand at coding a static site blog and decided to test the waters out with making a cute little blog for Brad!!&lt;/p&gt;&#xA;&lt;p&gt;I originally had a Tumblr blog for Brad and his friends, however I do not enjoy posting onto Tumblr. The UI of Tumblr is sloppy, and the moderation on there has a bias towards queer content.&lt;/p&gt;</description>
     </item>
   </channel>

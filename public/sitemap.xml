@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neopost.neocities.org/content/posts/new-post/</loc>
-    <lastmod>2025-07-30T21:43:45+01:00</lastmod>
-  </url><url>
-    <loc>https://neopost.neocities.org/content/</loc>
+    <loc>https://neopost.neocities.org/posts/new-post/</loc>
     <lastmod>2025-07-30T21:43:45+01:00</lastmod>
   </url><url>
     <loc>https://neopost.neocities.org/</loc>
@@ -14,11 +11,11 @@
     <loc>https://neopost.neocities.org/tags/meta/</loc>
     <lastmod>2025-07-30T21:43:45+01:00</lastmod>
   </url><url>
-    <loc>https://neopost.neocities.org/tags/</loc>
+    <loc>https://neopost.neocities.org/posts/</loc>
     <lastmod>2025-07-30T21:43:45+01:00</lastmod>
   </url><url>
-    <loc>https://neopost.neocities.org/posts/</loc>
-    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
+    <loc>https://neopost.neocities.org/tags/</loc>
+    <lastmod>2025-07-30T21:43:45+01:00</lastmod>
   </url><url>
     <loc>https://neopost.neocities.org/categories/</loc>
   </url>

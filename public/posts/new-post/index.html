@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>meow | epic pictures of brad and co</title>
-    <link rel="canonical" href="http://localhost:1313/">
+<head>
+    <title>an introduction | epic pictures of brad and co</title>
+    <link rel="canonical" href="https://neopost.neocities.org/">
     
     
     <link rel="icon" href="/favicon.ico">
     
     
-    <meta name="description" content="">
+    <meta name="description" content="Hello everyone!
+This may be a bit of surprise, but I decided to make a blog for Brad! I&rsquo;ve always wanted to try my hand at coding a static site blog and decided to test the waters out with making a cute little blog for Brad!!
+I originally had a Tumblr blog for Brad and his friends, however I do not enjoy posting onto Tumblr. The UI of Tumblr is sloppy, and the moderation on there has a bias towards queer content.">
     
+    
+    <meta name="keywords" content="meta">
     
     
     <style>
@@ -563,30 +567,50 @@ pre {
     <meta charset="utf-8">
 </head>
 <body>
-        <header><h1 id="epic pictures of brad and co"><a href="http://localhost:1313/">epic pictures of brad and co</a></h1></header>
+        <header><h1 id="epic pictures of brad and co"><a href="https://neopost.neocities.org/">epic pictures of brad and co</a></h1></header>
 <main>
     
-<article style="padding-left: 2rem;">
-    <h2>meow</h2>
-    <ul>
+<div id="single-post">
+
+    <article>
+        <h2>an introduction</h2>
         
-        <li class="tag-item">
-            <a href="/posts/mysterious-meow/">mysterious meow</a>
-            <p> > meow meow&hellip; meow rawr, meow meow meow!
-rawr rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow. meow rawr, meow rawr meow!
-</p>
-        </li>
+        tags:
         
-        <li class="tag-item">
-            <a href="/posts/friends/">friends!!</a>
-            <p> > meow rawr meow meow, rawr!
-rawr meow, meow rawr rawr meow meow, rawr meow meow rawr! rawr meow meow rawr, rawr meow meow meow rawr!
-</p>
-        </li>
+        <a href="/tags/meta">meta</a>
         
-    </ul>
-    <p style="margin-top: 2.5rem;"><a href="/tags">all tags</a></p>
-</article>
+        <div class="post-header">
+        @ <span class="timestamp">30/07/2025</span>
+        </div>
+        <p><p>Hello everyone!</p>
+<p>This may be a bit of surprise, but I decided to make a blog for Brad! I&rsquo;ve always wanted to try my hand at coding a static site blog and decided to test the waters out with making a cute little blog for Brad!!</p>
+<p>I originally had a Tumblr blog for Brad and his friends, however I do not enjoy posting onto Tumblr. The UI of Tumblr is sloppy, and the moderation on there has a bias towards queer content.</p></p>
+        
+        <div class="auto-numbering" id="full-content"><p>I&rsquo;ve also wanted to drift away from social media to share my thoughts and writing. Over the last three years, there&rsquo;s been a general discussion about the harms of having community primarily based on privately owned platforms and the harms it causes to users and the inevitability of enshittenfication.</p>
+<p>Instead I&rsquo;ve created a small blog website without these issues, developed with <a href="https://gohugo.io/">Hugo</a>. I hope you will enjoy this blog as I plan to update this further in the future. For now, just have this cute post :D</p></div>
+        
+    </article>
+    <script>
+    window.addEventListener('click', e => {
+        let dropboxs = document.getElementsByClassName("dropbox-content");
+        let dropbox_btns = document.getElementsByClassName("dropbox-btn");
+
+        if (dropbox_btns.namedItem(e.target.id) != null) return;
+
+        if(dropboxs.namedItem(e.target.id) == null) {
+            for (let i = 0; i < dropboxs.length; i++) {
+                dropboxs[i].removeAttribute("visible");
+            }
+        }
+    }, true)
+
+    function toggleDropbox(id) {
+        let dropbox = document.getElementById(id);
+
+        dropbox.toggleAttribute("visible");
+    }
+    </script>
+</div>
 
     
 </main>
