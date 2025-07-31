@@ -1,0 +1,3 @@
+[submodule "neopost"]
+	path = neopost
+	url = https://github.com/salatine/neopost.git
