@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/introduction/</loc>
-    <lastmod>2025-07-30T21:43:45+01:00</lastmod>
+    <loc>http://localhost:1313/content/posts/art-of-brad/</loc>
+    <lastmod>2025-08-01T19:33:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artwork/</loc>
+    <lastmod>2025-08-01T19:33:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/content/</loc>
+    <lastmod>2025-08-01T19:33:49+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-01T19:33:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-01T19:33:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction/</loc>
     <lastmod>2025-07-30T21:43:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meta/</loc>
@@ -14,8 +26,17 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-07-30T21:43:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-30T21:43:45+01:00</lastmod>
+    <loc>http://localhost:1313/tags/meow/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mysterious-meow/</loc>
+    <lastmod>2025-02-01T10:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/friends/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rawr/</loc>
+    <lastmod>2025-01-29T21:05:11-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

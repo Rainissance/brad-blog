@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artwork on epic pictures of brad and co</title>
+    <link>http://localhost:1313/tags/artwork/</link>
+    <description>Recent content in artwork on epic pictures of brad and co</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 19:33:49 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/artwork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>art of brad</title>
+      <link>http://localhost:1313/content/posts/art-of-brad/</link>
+      <pubDate>Fri, 01 Aug 2025 19:33:49 +0100</pubDate>
+      <guid>http://localhost:1313/content/posts/art-of-brad/</guid>
+      <description>&lt;p&gt;There are several wonder pieces that exist of Brad the axolotl, and I haven&amp;rsquo;t gotten around to compiling all the wonderful artwork people have created for this silly little axolotl, so I&amp;rsquo;ve decided to make this blog post to collect all the pieces people have created of him. Yay!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
