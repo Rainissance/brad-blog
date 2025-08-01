@@ -1,5 +1,5 @@
 title: "epic pictures of brad and co"
-baseURL: 'https://bradandfriends.netlify.app/'
+baseURL: 'https://bradandfriends.blog/'
 languageCode: 'en-us'
 titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
 theme: "neopost"
